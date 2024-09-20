@@ -4,7 +4,7 @@
 
 </div>
 
-![terrorismEDA](https://github.com/user-attachments/assets/4e027b72-5011-4c11-ba04-f536f4476d59)
+![terrorismEDA](https://github.com/user-attachments/assets/15a3a670-7fdd-48da-90d1-df18b15b9382)
 
 ## Dataset Description
 
