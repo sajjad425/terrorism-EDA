@@ -10,6 +10,10 @@
 
 The Terrorism dataset is a comprehensive collection of incidents involving terrorism worldwide, spanning multiple decades. It provides detailed information on various aspects of each attack, making it a valuable resource for researchers, policymakers, and analysts studying terrorism trends, patterns, and consequences.
 
+## Dataset Link
+
+You can access the dataset via the following link: [Download Terrorism Dataset](https://drive.google.com/file/d/1rDWTduILIABqPRmYYIvLyS85mYTDBmYa/view?usp=sharing)
+
 ## Key Features
 
 - **Extensive Coverage**: Covers a wide range of terrorist activities, including bombings, assassinations, kidnappings, and other violent acts.
