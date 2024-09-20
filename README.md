@@ -1,4 +1,8 @@
+<div align="center">
+  
 # Terrorism Dataset
+
+</div>
 
 ## Dataset Description
 
