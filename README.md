@@ -4,6 +4,8 @@
 
 </div>
 
+![terrorismEDA](https://github.com/user-attachments/assets/e11aa222-1ef8-4bd0-889d-818fc9b73b6a)
+
 ## Dataset Description
 
 The Terrorism dataset is a comprehensive collection of incidents involving terrorism worldwide, spanning multiple decades. It provides detailed information on various aspects of each attack, making it a valuable resource for researchers, policymakers, and analysts studying terrorism trends, patterns, and consequences.
